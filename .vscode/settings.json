@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sbi.h": "c",
+        "stdio.h": "c",
+        "console.h": "c",
+        "defs.h": "c"
+    }
+}
