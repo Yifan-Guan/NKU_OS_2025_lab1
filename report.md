@@ -1,5 +1,13 @@
 <h1 align="center">Ucore Lab 1 Report</h1>
 
+**小组成员：**
+
+- 管一凡：2312307
+- 周雨晴：2312313
+- 欧一凡：2312826
+
+**Github仓库地址：**https://github.com/Yifan-Guan/NKU_OS_2025_lab1.git
+
 ## 一、理解内核启动中的程序入口操作
 
 ### 1. la sp, bootstacktop
